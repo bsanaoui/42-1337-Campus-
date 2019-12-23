@@ -5,13 +5,12 @@
 
 Goals :
 
-  -basics of c
-  -Libft
-  -Generation of static library
+* basics of c
+* Libft
+* Generation of static library
 
 Skills:
 
-  -Algorithm and artificial intelligence
-  -Rigor
-  -Imperative programming
-  
+* Algorithm and artificial intelligence
+* Rigor
+* Imperative programming
