@@ -1,2 +1,2 @@
-# 42-1337-Campus-
+# libft 42
 42 workspace 🖥
